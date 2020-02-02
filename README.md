@@ -5,4 +5,6 @@
 執行程式碼，即能批量爬取該網站在google搜尋的排名狀況
 
 此工具是常律設計企業社(http://www.pro-web.com.tw/) 委託撰寫的，但也歡迎大家拿去使用。
+
+
 部分程式碼靈感來自於Sundios，Sundios的Github:https://github.com/sundios/Google-rank-tracker
