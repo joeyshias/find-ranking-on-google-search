@@ -7,4 +7,4 @@
 此工具是常律設計企業社(http://www.pro-web.com.tw/) 委託撰寫的，但也歡迎大家拿去使用。
 
 
-部分程式碼靈感來自於Sundios，Sundios的Github:https://github.com/sundios/Google-rank-tracker
+此串程式碼的靈感及基礎來自於Sundios，Sundios的Github:https://github.com/sundios/Google-rank-tracker
